@@ -26,7 +26,7 @@ jobs:
 
       # ⚠️ Assim que remover segredos do código, passar pra cá
       # Obs: não é uma alternativa tão robusta quanto um Vault por exemplo, mas já que o segredo estava em código....
-      # Dicas para cada variável:
+      # Dicas para cada variável: 
       #   - adicione um env 
       #   - crie um segredo correspondente no github
       #   - insira uma referência para encontrá-la no código (exemplo CHAVE = "__CHAVE__")
